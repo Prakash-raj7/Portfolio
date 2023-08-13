@@ -7,7 +7,7 @@ function About(){
             <div className="about-top">
                 <div className="about-info">
                     Hello There ,I am,
-                    <br /><span className="name">Prakashraj</span>
+                    <br /><span className="name">Prakashraj Kodimunja</span>
                     <br /> I am an enthusiast Full-Stack developer.
                 </div>
                 <div className="about-photo">

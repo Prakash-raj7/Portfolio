@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/skill-card.css";
-// In your CSS or main application file
+
 import 'devicon/devicon.min.css';
 
 
